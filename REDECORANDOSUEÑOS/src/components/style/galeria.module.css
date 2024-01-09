@@ -1,0 +1,17 @@
+/* galeria.module.css */
+
+.card-body img {
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .card-body:hover img {
+    transform: rotate(360deg);
+  }
+
+  .textBody {
+    font-family: "Poppins", sans-serif;
+  }
+
+  .textG {
+    font-family: "gistesy", sans-serif;
+  }
